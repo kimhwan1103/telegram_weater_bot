@@ -9,7 +9,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 print("토큰 설정...")
-TOKEN = '1033104962:AAG68iE_1RTp_9EXX5P8C0D-XlFA698abtA'
+TOKEN = #토큰을 넣어주세요 input token
 print("토큰 설정완료!")
 
 def get_url(url):
